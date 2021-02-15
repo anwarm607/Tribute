@@ -34,7 +34,7 @@ body {
 
 .section-fold {
 	background: #E2D5C8;
-	background: url(./images/texture.png);
+	background: url(./texture.png);
 	background-size: cover;
 	background-position: center;
 }
